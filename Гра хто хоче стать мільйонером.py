@@ -6,7 +6,7 @@ podzn = True
 summa = 0
 n_summa=0
 print("hello github")
-
+print("hello github")
 
 def dost_podskazki():
     print("\t\t\t\t поточна сума:", summa)
