@@ -5,6 +5,7 @@ podzn = True
 
 summa = 0
 n_summa=0
+sto
 
 
 def dost_podskazki():
