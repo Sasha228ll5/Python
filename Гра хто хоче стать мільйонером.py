@@ -5,7 +5,7 @@ podzn = True
 
 summa = 0
 n_summa=0
-sto
+print("hello github")
 
 
 def dost_podskazki():
